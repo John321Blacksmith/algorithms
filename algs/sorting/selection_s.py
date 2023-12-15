@@ -4,6 +4,7 @@ array and picks up the greatest or smallest
 value. After the value has been chosen, it's
 retrieved from the array and placed to another
 array. And all this works until the last value.
+Time complexity: O(n^2)
 """
 
 
